@@ -204,6 +204,11 @@ button.cancelbtn {
    right: 0;
    background: rgba(0,0,0,0.5);
 }
+.text-center {
+    text-align: center!important;
+    color: white;
+    z-index: 1;
+}
 .navbar-brand{color: red;font-size: 40px;font-weight: 500;}
 .header .dropdown-mega .dropdown-menu{ width: 100%;}
 @media (max-width:991px) {
@@ -212,3 +217,5 @@ button.cancelbtn {
     }
 }
 /* home section ends */
+
+
